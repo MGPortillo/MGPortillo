@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MGPortillo
+- 👋 Hi, I’m @Marvin G. Portillo
 - 👀 I’m interested in Computer Science, more specifically software developing!
 - 🌱 I’m currently learning to develop in HTML, CSS and JavaScript! Once I have a stronger grasp on these, I'll begin tackling languages like Java or Python!
 - 💞️ I’m looking to collaborate on many projects moving forward! I'm excited especially to be learning SQL for database design!
